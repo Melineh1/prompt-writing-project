@@ -1,7 +1,59 @@
 August 24, 2025
 This is going to be my log as I go. I think I can just update this one file as I go. I guess I will just date the entries to keep them separate? I really don't know. 
-
+------------------------------------------------------------------------------
 August 25, 2025
 Today I tried to use AI to read through student accommodations and compile them all into one big excel file. I worked on it for hours. I think I did it correctly. I'm waiting for the last thing to finish. Had to switch from Copilot to ChatGPT because Copilot was frustrating me.
 
 I don’t know if I can recreate the whole process again. I need to figure out how to save the exact instruction set so I can repeat it later, because right now it feels like I just got lucky.
+
+Notes about Copilot: it was frustrating to use and seems to forget/not follow instructions often. Had to repeat myself often. Will figure out why and how to say things once. 
+
+Once I got ChatGTP to produce the excel chart (after about 5 hours of trying) it told me that this is the instruction set I need to tell it next time:
+
+Standing Instruction Set for Accommodation Charts
+
+Upload student accommodation screenshots one at a time (cropped for clarity) or paste text.
+
+Read every accommodation exactly as written.
+
+Always mark Copy of Notes (Hard/Electronic) if “copy of notes” appears in any form.
+
+Merge “Small Group” into Small-Group Test.
+
+Two-row headers: Category (row 1) → Accommodation (row 2).
+
+First two columns: Class Period, Student.
+
+Students alphabetized within each period; columns alphabetized within each category.
+
+Keep all categories:
+
+Adapt Classroom Instruction
+
+Adapted or Additional Materials
+
+Alter Assignments or Testing
+
+Alter Testing
+
+Required Equipment/AT
+
+Manage Behavior
+
+Environmental/Accessibility
+
+Academic Interventions
+
+Content & Language Supports
+
+Add new accommodations as new columns under the correct category.
+
+Triple-check: every student has all accommodations marked; Copy of Notes never missed; no blank unused categories.
+
+Provide inline preview for verification before exporting.
+
+Export as downloadable Excel (.xlsx) with two-row headers, and optionally CSV.
+
+Use version numbers in filenames (e.g., Master_Accommodations_All_v11.xlsx).
+--------------------------------------------------------------------------------------------------
+
